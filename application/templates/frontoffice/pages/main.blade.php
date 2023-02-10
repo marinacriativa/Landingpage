@@ -1,15 +1,11 @@
 @extends('layouts.master')
 @section('content')
 <section id="main" class="main">
-  <style>
-    .main-intro .logo {top: 1.5rem;}
-    .main-intro {height: 110%;}
-  </style>
     <div class="container-fluid fullheight">
       <div class="main-intro col-xs-12 col-md-8 col-lg-9" style="background-image:url(/static/images/backgrounds/bg4.jpg);">
         <div class="layer-black"></div>
         <div class="logo">
-          <img src="/static/images/logoWhite.png" alt="Bioalternativa - Produtos Naturais">
+          <img src="/static/images/logoWhite.svg" alt="Bioalternativa - Produtos Naturais">
         </div>
         <div class="menu">
           <nav>

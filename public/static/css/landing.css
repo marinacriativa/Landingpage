@@ -1,15 +1,11 @@
 .btn-solid {color: #018938;}
-
 .btn-solid {color: #ffffff !important;}
 .btn-solid:hover {color: #018938;}
-
-.main-intro .countdown #countdown {
-  color: transparent;
-}
+.main-intro .countdown #countdown {color: transparent;}
 h1 {font-size: 6rem !important;}
-
 .layer-black {background-color: rgba(0, 0, 0, 0.015) !important;}
-
 @media only screen and (min-width: 1600px){
   h1 {font-size: 8rem; margin-bottom: 3.2rem !important;}
 }
+/* .main-intro .logo img {max-width: 35rem !important;}
+.main-intro .logo {top: 2.5rem !important;} */

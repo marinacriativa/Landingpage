@@ -119,8 +119,6 @@
       .btn-solid {color: #ffffff !important;}
       .no-touch .btn-solid:hover {color: #000 !important;}
       .main-intro .countdown #countdown {color: transparent;}
-      .main-intro .logo img {max-width: 20rem;}
-      .loader-logo img {width: 20rem !important;}
       .main-aside {background-color: #018938;background-image: none;}
       .layer-black {background-color: rgb(0 0 0 / 0%);}
     </style>
@@ -136,7 +134,7 @@
     <div class="loader">
       <div class="loader-content">
         <div class="loader-logo slideInDown">
-          <img src="/static/images/logowhite.png" alt="bioalternativa">
+          <img src="/static/images/logowhite.svg" alt="bioalternativa">
         </div>
         <div class="loader-caption slideInUp">
           <p class="loading-text">Loading</p>

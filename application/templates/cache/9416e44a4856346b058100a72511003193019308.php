@@ -1,1 +1,0 @@
-<?php /**PATH C:\wamp64\www\CRIATIVA\application\templates\frontoffice/pages/constructions/index.blade.php ENDPATH**/ ?>
